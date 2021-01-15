@@ -7,7 +7,7 @@
     <br />
     <p>
           <a href="https://discord.gg/hbSahh8"><img src="https://img.shields.io/discord/645463565813284865?color=7289DA&label=DISCORD&logo=DISCORD&style=for-the-badge" alt="Discord server" /></a>
-   <a href="https://discord.gg/K63NqEDm86"><img src="https://img.shields.io/discord/798551506202394654?color=7289DA&label=DISCORD&logo=DISCORD&style=for-the-badge" alt="Asuna version" /></a>
+   <a href="https://github.com/AsunaBots/Asuna"><img src="https://img.shields.io/github/package-json/v/AsunaBots/Asuna?style=for-the-badge" alt="Asuna version" /></a>
     <a href="https://github.com/AsunaBots/Asuna/graphs/contributors"><img src="https://img.shields.io/github/contributors/AsunaBots/Asuna.svg?logo=Github&style=for-the-badge" alt="Contributors" /></a>
   </br>
         </p>
