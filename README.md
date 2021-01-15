@@ -12,3 +12,9 @@
   </br>
         </p>
 <div>
+
+# Asuna
+## Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+- **Invitame** [Invitacion](https://discord.com/api/oauth2/authorize?client_id=798573830645874718&permissions=8&scope=bot)
+- **Soporte** [Servidor](https://discord.gg/K63NqEDm86)
